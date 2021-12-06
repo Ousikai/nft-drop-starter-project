@@ -1,0 +1,19 @@
+{
+  "name": "SAOP_KIRITO",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5oSCADXbJjqDejT2HK49F2NpL4WrdN7dm15wxrscGuUp",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SAOP_MITO",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5oSCADXbJjqDejT2HK49F2NpL4WrdN7dm15wxrscGuUp",
+        "share": 100
+      }
+    ]
+  }
+}
